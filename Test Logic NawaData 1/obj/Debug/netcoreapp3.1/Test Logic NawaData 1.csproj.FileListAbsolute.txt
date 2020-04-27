@@ -1,0 +1,13 @@
+F:\nawadata\Test Logic NawaData 1\Test Logic NawaData 1\bin\Debug\netcoreapp3.1\Test Logic NawaData 1.exe
+F:\nawadata\Test Logic NawaData 1\Test Logic NawaData 1\bin\Debug\netcoreapp3.1\Test Logic NawaData 1.deps.json
+F:\nawadata\Test Logic NawaData 1\Test Logic NawaData 1\bin\Debug\netcoreapp3.1\Test Logic NawaData 1.runtimeconfig.json
+F:\nawadata\Test Logic NawaData 1\Test Logic NawaData 1\bin\Debug\netcoreapp3.1\Test Logic NawaData 1.runtimeconfig.dev.json
+F:\nawadata\Test Logic NawaData 1\Test Logic NawaData 1\bin\Debug\netcoreapp3.1\Test Logic NawaData 1.dll
+F:\nawadata\Test Logic NawaData 1\Test Logic NawaData 1\bin\Debug\netcoreapp3.1\Test Logic NawaData 1.pdb
+F:\nawadata\Test Logic NawaData 1\Test Logic NawaData 1\obj\Debug\netcoreapp3.1\Test Logic NawaData 1.csprojAssemblyReference.cache
+F:\nawadata\Test Logic NawaData 1\Test Logic NawaData 1\obj\Debug\netcoreapp3.1\Test Logic NawaData 1.csproj.CoreCompileInputs.cache
+F:\nawadata\Test Logic NawaData 1\Test Logic NawaData 1\obj\Debug\netcoreapp3.1\Test Logic NawaData 1.AssemblyInfoInputs.cache
+F:\nawadata\Test Logic NawaData 1\Test Logic NawaData 1\obj\Debug\netcoreapp3.1\Test Logic NawaData 1.AssemblyInfo.cs
+F:\nawadata\Test Logic NawaData 1\Test Logic NawaData 1\obj\Debug\netcoreapp3.1\Test Logic NawaData 1.dll
+F:\nawadata\Test Logic NawaData 1\Test Logic NawaData 1\obj\Debug\netcoreapp3.1\Test Logic NawaData 1.pdb
+F:\nawadata\Test Logic NawaData 1\Test Logic NawaData 1\obj\Debug\netcoreapp3.1\Test Logic NawaData 1.genruntimeconfig.cache
